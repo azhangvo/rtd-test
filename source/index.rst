@@ -10,7 +10,6 @@ Welcome to RTD Test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   contents.rst
    python.rst
 
 Indices and tables
